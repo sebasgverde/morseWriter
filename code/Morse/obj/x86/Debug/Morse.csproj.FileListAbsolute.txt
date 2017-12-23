@@ -1,0 +1,11 @@
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\Morse.Form1.resources
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\Morse.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\bin\Debug\Morse.exe
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\bin\Debug\Morse.pdb
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\Morse.exe
+c:\users\sebastian\documents\visual studio 2010\Projects\Morse\Morse\obj\x86\Debug\Morse.pdb
+D:\Dropbox\miscelanea educativa\Morse\Morse\obj\x86\Debug\Morse.exe
+D:\Dropbox\miscelanea educativa\Morse\Morse\obj\x86\Debug\Morse.pdb
